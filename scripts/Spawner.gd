@@ -1,7 +1,6 @@
 extends Position2D
 
 export (Array, PackedScene) var path_ball_nodes
-onready var ball = load("res://scenes/Ball.tscn")
 onready var spawn_timer_node = $SpawnTimer
 var index_of_array
 var ball_instance

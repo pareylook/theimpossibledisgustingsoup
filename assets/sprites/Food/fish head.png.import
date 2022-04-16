@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/spoon_icon.png-cda8b29955e2405e8ca306bd92e67bfa.stex"
+path="res://.import/fish head.png-72d8484960143f0eed8d26dceb8b1888.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/sprites/spoon_icon.png"
-dest_files=[ "res://.import/spoon_icon.png-cda8b29955e2405e8ca306bd92e67bfa.stex" ]
+source_file="res://assets/sprites/Food/fish head.png"
+dest_files=[ "res://.import/fish head.png-72d8484960143f0eed8d26dceb8b1888.stex" ]
 
 [params]
 
