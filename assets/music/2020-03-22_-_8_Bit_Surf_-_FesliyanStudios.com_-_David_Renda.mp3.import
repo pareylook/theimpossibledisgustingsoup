@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/2020-03-22_-_8_Bit_Surf_-_FesliyanStudios.com_-_David_Renda.mp3-38c7e09b656c9334dff82824d7949007.mp3str"
+
+[deps]
+
+source_file="res://assets/music/2020-03-22_-_8_Bit_Surf_-_FesliyanStudios.com_-_David_Renda.mp3"
+dest_files=[ "res://.import/2020-03-22_-_8_Bit_Surf_-_FesliyanStudios.com_-_David_Renda.mp3-38c7e09b656c9334dff82824d7949007.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
